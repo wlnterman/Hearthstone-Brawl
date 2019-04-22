@@ -1,0 +1,43 @@
+C:\Users\USER\source\repos\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\USER\source\repos\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\USER\source\repos\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\USER\source\repos\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\USER\source\repos\Chat\Chat\obj\Debug\Chat.pdb
+D:\Лабы\4semestr\4. КСиС              (Active!)\Мой чат       (Active!)\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Лабы\4semestr\4. КСиС              (Active!)\Мой чат       (Active!)\Chat\Chat\obj\Debug\Chat.exe
+D:\Лабы\4semestr\4. КСиС              (Active!)\Мой чат       (Active!)\Chat\Chat\obj\Debug\Chat.pdb
+D:\Лабы\4semestr\4. КСиС              (Active!)\Мой чат       (Active!)\Chat\Chat\bin\Debug\Chat.exe
+D:\Лабы\4semestr\4. КСиС              (Active!)\Мой чат       (Active!)\Chat\Chat\bin\Debug\Chat.pdb
+D:\Лабы\4semestr\4. КСиС              (Active!)\Мой чат       (Active!)\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Лабы\4semestr\4. КСиС              (Active!)\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Лабы\4semestr\4. КСиС              (Active!)\Chat\Chat\obj\Debug\Chat.exe
+D:\Лабы\4semestr\4. КСиС              (Active!)\Chat\Chat\obj\Debug\Chat.pdb
+D:\Лабы\4semestr\4. КСиС              (Active!)\Chat\Chat\bin\Debug\Chat.exe
+D:\Лабы\4semestr\4. КСиС              (Active!)\Chat\Chat\bin\Debug\Chat.pdb
+D:\Лабы\4semestr\4. КСиС              (Active!)\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Лабы\4semestr\4. КСиС (0+1+(1) из 5)     0%\1. Чат\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Лабы\4semestr\4. КСиС (0+1+(1) из 5)     0%\1. Чат\Chat\Chat\obj\Debug\Chat.exe
+D:\Лабы\4semestr\4. КСиС (0+1+(1) из 5)     0%\1. Чат\Chat\Chat\obj\Debug\Chat.pdb
+D:\Лабы\4semestr\4. КСиС (4+1 из 5)     80%\1. Чат\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Лабы\4semestr\4. КСиС (4+1 из 5)     80%\1. Чат\Chat\Chat\obj\Debug\Chat.exe
+D:\Лабы\4semestr\4. КСиС (4+1 из 5)     80%\1. Чат\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Влад\Desktop\Курсач 4 сем\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Влад\Desktop\Курсач 4 сем\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Влад\Desktop\Курсач 4 сем\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Влад\Desktop\Курсач 4 сем\server\Chat\bin\Debug\Chat.exe.config
+C:\Users\Влад\Desktop\Курсач 4 сем\server\Chat\obj\Debug\Chat.exe
+C:\Users\Влад\Desktop\Курсач 4 сем\server\Chat\obj\Debug\Chat.pdb
+C:\Users\Влад\Desktop\Курсач 4 сем\server\Chat\bin\Debug\Chat.exe
+C:\Users\Влад\Desktop\Курсач 4 сем\server\Chat\bin\Debug\Chat.pdb
+C:\Users\Влад\Desktop\Курсач 4 сем\server\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+F:\Курсач 4 сем\server\Chat\bin\Debug\Chat.exe.config
+F:\Курсач 4 сем\server\Chat\obj\Debug\Chat.exe
+F:\Курсач 4 сем\server\Chat\obj\Debug\Chat.pdb
+C:\Users\Admin\Desktop\Курсач 4 сем\server\Chat\bin\Debug\Chat.exe.config
+C:\Users\Admin\Desktop\Курсач 4 сем\server\Chat\obj\Debug\Chat.exe
+C:\Users\Admin\Desktop\Курсач 4 сем\server\Chat\obj\Debug\Chat.pdb
+D:\Лабы\Конец сема\Курсачи\Курсач 3\курсач\Курсач 4 сем\server\Chat\bin\Debug\Chat.exe.config
+D:\Лабы\Конец сема\Курсачи\Курсач 3\курсач\Курсач 4 сем\server\Chat\obj\Debug\Chat.exe
+D:\Лабы\Конец сема\Курсачи\Курсач 3\курсач\Курсач 4 сем\server\Chat\obj\Debug\Chat.pdb

@@ -1,0 +1,1335 @@
+hello2 has joined the gamehello2 : connect
+start
+hello : starthello2 : start
+back from choice1
+hello : back from choice1hello2 : back from choice1
+hello2 : button7
+hello : button7
+hello : button1
+hello : endturn
+hello : back from choice1
+hello : finish
+hello2 : finish
+hello : start
+hello2 : start
+back from choice1
+hello : back from choice1hello2 : back from choice1
+button1
+hello : button1hello2 : button1
+button11
+hello : button11hello2 : button11
+exit
+hello : finishhello2 : finish
+hello2 : start
+hello2 has joined the gamehello2 : connect
+hello2 : start
+start
+hello2 : start
+hello2 : back from choice1
+back from choice1
+hello2 : back from choice1hello : back from choice1
+hello2 : button7
+button7
+hello2 : button7
+button7
+hello2 : button7
+hello2 : button1
+button1
+hello2 : button1hello : button1
+hello2 : button7
+button7
+hello2 : button7
+hello2 : button12
+button12
+hello2 : button12hello : button12
+button7
+hello2 : button7hello : button7
+button12
+hello2 : button12hello : button12
+button12
+hello2 : button12
+button12
+hello2 : button12
+button12
+hello2 : button12
+button12
+hello2 : button12
+button12
+hello2 : button12
+button7
+hello2 : button7hello : button7
+button12
+hello2 : button12
+button12
+hello2 : button12
+button12
+hello2 : button12
+button12
+hello2 : button12hello : button12
+endturn
+hello2 : endturn
+endturn
+hello2 : endturnhello : endturn
+back from choice1
+hello2 : back from choice1hello : back from choice1
+button3
+hello2 : button3
+button3
+hello2 : button3
+button3
+hello2 : button3hello : button3
+button11
+hello2 : button11hello : button11
+button4
+hello2 : button4hello : button4
+button11
+hello2 : button11
+button11
+hello2 : button11
+button2
+hello2 : button2hello : button2
+button11
+hello2 : button11
+button11
+hello2 : button11
+endturn
+hello2 : endturnhello : endturn
+back from choice1
+hello2 : back from choice1
+back from choice1
+hello2 : back from choice1
+endturn
+hello2 : endturnhello : endturn
+back from choice3
+hello2 : back from choice3
+back from choice3
+hello2 : back from choice3hello : back from choice3
+endturn
+hello2 : endturnhello : endturn
+back from choice3
+hello2 : back from choice3hello : back from choice3
+endturn
+hello2 : endturnhello : endturn
+back from choice3
+hello2 : back from choice3hello : back from choice3
+button12
+hello2 : button12hello : button12
+hello2 : button12
+button12
+hello2 : button12
+endturn
+hello2 : endturnhello : endturn
+back from choice3
+back from choice3hello2 : back from choice3
+hello2 : endturn
+endturn
+hello2 : endturn
+hello2 : back from choice2
+back from choice2
+hello2 : back from choice2
+exit
+finishhello2 : finish
+start
+starthello2 : start
+endturn
+hello2 : endturnhello : endturn
+endturn
+hello2 : endturnhello : endturn
+endturn
+hello2 : endturnhello : endturn
+endturn
+hello2 : endturnhello : endturn
+exit
+hello2 : finishhello : finish
+Host  has left the chat
+hello2 has joined the gamehello2 : connect
+Host : иа
+Host : gj
+Host : poigrayem rebyata
+Host : go
+Host : ds
+Host : gz
+Host : ww
+Host : rw
+Host : rwrw
+Host : wrwraf
+Host : fdh
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : starthello : starthello : starthello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : start
+hello : starthello : start
+hello : start
+hello : starthello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : start
+hello : starthello : starthello : starthello : starthello : starthello : starthello2 : start
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1
+back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choic
+e1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1
+hello : back from choice1hello : button1
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7
+button7hello2 : button12
+finish
+hello : finish
+hello2 has joined the gamehello2 : connect
+start
+hello2 : start
+start
+hello2 : start
+back from choice1
+hello2 : back from choice1hello : back from choice1
+button8
+hello2 : button8
+button8
+hello2 : button8
+button12
+hello2 : button12hello : button12
+button9
+hello2 : button9
+button9
+hello2 : button9
+button12
+hello2 : button12
+button12
+hello2 : button12
+button12
+hello2 : button12
+button10
+hello2 : button10
+button10
+hello2 : button10
+button3
+hello2 : button3
+button3
+hello2 : button3hello : button3
+button7
+hello2 : button7
+button7
+hello2 : button7
+button1
+hello2 : button1hello : button1
+endturn
+hello2 : endturnhello : endturn
+back from choice2
+hello2 : back from choice2hello : back from choice2
+hello2 : button1
+button1
+hello2 : button1
+hello2 : button1
+button1
+hello2 : button1
+button1
+hello2 : button1
+button1
+hello2 : button1hello : button1
+hello2 : button2
+button2
+hello2 : button2hello : button2
+hello2 : button11
+button11
+hello2 : button11
+hello2 : button3
+button3
+hello2 : button3
+hello2 : button11
+button11
+hello2 : button11
+hello2 : button4
+button4
+hello2 : button4hello : button4
+hello2 : button11
+button11
+hello2 : button11
+hello2 : endturn
+endturn
+hello2 : endturn
+endturn
+hello2 : endturn
+endturn
+hello2 : endturn
+back from choice3
+hello2 : back from choice3
+back from choice3
+hello2 : back from choice3
+endturn
+hello2 : endturnhello : endturn
+back from choice3
+hello2 : back from choice3
+back from choice3
+hello2 : back from choice3
+hello2 : endturn
+endturn
+hello2 : endturn
+endturn
+hello2 : endturnhello : endturn
+hello2 : back from choice3
+back from choice3
+hello2 : back from choice3
+hello2 : endturn
+endturn
+hello2 : endturn
+endturn
+endturnhello2 : endturn
+back from choice3
+hello2 : back from choice3hello : back from choice3
+endturn
+endturnhello2 : endturn
+back from choice1
+start
+back from choice1
+endturn
+back from choice1
+back from choice1
+endturn
+button11
+button4
+button4
+exit
+exit
+back from choice3
+exit
+start
+exit
+start
+exit
+start
+back from choice3
+finish
+back from choice1
+button10
+button12
+endturn
+back from choice3
+button3
+button11
+button11
+button11
+button11
+button4
+button11
+button2
+button11
+button1
+button11
+endturn
+back from choice1
+button7
+button12
+finish
+button11
+start
+back from choice1
+button10
+button12
+endturn
+endturn
+endturn
+endturn
+endturn
+back from choice1
+exit
+finish
+start
+start
+start
+back from choice2
+finish
+start
+button2
+button11
+start
+backfromchoice1
+start
+backfromchoice1
+back from choice1
+button7
+button1
+back from choice1
+button7
+button11
+button12
+finish

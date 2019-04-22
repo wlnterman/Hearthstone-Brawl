@@ -1,0 +1,379 @@
+﻿<Window x:Class="kurstry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:kurstry"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="512.666" Width="825">
+    <Window.Background>
+        <ImageBrush ImageSource="NewFolder1/p_z_zpuguIw.jpg"/>
+    </Window.Background>
+
+    <Grid >
+        <Grid x:Name="grGameField" Grid.ColumnSpan="2" >
+            <Grid.Background>
+                <ImageBrush ImageSource="NewFolder1/2ecd8a7384235fa7.png"/>
+            </Grid.Background>
+            <Grid Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="button1"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Width="55" 
+                        Grid.Column="1"
+                        Margin="71,145,10,0" Height="70" Click="button1_Click">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="button2"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Width="55" 
+                        Grid.Column="2"
+                        Margin="20,145,0,0" Click="button2_Click" Height="70">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="button3"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Width="55" 
+                        Grid.Column="3"
+                        Margin="0,145,20,0" Click="button3_Click" Height="70">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="button4"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Width="55" 
+                        Grid.Column="4"
+                        Margin="0,145,60,0" Click="button4_Click" Height="70">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="button5"
+                        Content="EndTurn"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Width="75" 
+                        Grid.Column="5"
+                        Margin="-40,210,0,0" Click="EndTurnButton_Click" Opacity="0"/>
+
+                <Button x:Name="button6"
+                        Content="Button"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="75"
+                        Margin="0,0,0,180" Visibility="Hidden"/>
+                <Button x:Name="button7"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="55"
+                        Margin="60,0,0,180" 
+                        Grid.Column="1" Click="button7_Click" Height="70">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="button8"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="55"
+                        Margin="20,0,0,180" 
+                        Grid.Column="2" Click="button8_Click" Height="70">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="button9"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="55"
+                        Margin="0,0,20,180" 
+                        Grid.Column="3" Click="button9_Click" Height="70">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="button10"
+                        Content=""
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="55"
+                        Margin="0,0,60,180" 
+                        Grid.Column="4" Click="button10_Click" Height="70">
+                    <Button.Background>
+                        <ImageBrush ImageSource="NewFolder1/39481-premium.png"/>
+                    </Button.Background>
+                </Button>
+                <Button x:Name="button11"
+                        Content="HP2"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Bottom"
+                        Width="75"
+                        Margin="0,0,-40,70" 
+                        Grid.Column="2" Height="75" Opacity="0" Click="button11_Click"/>
+                <Button x:Name="button12"
+                        Content="HP1"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Top"
+                        Width="75"
+                        Margin="0,55,-40,0" 
+                        Grid.Column="2" Height="75" Opacity="0" Click="button12_Click"/>
+                <Button x:Name="ExitButton"
+                        Content="Exit"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="75"
+                        Margin="40,0,0,15" 
+                        Grid.Column="7" 
+                        Click="ExitButton_Click"/>
+                <Rectangle x:Name="P2Turn" 
+                           Fill="#FF23FF00" 
+                           HorizontalAlignment="Left" Height="70" Stroke="Black" 
+                           VerticalAlignment="Bottom" 
+                           Width="25" 
+                           Grid.Column="6" 
+                           Margin="20,0,0,160"/>
+                <Rectangle x:Name="P1Turn"
+                           Fill="#FFFF1700" 
+                           HorizontalAlignment="Left" 
+                           Height="70" 
+                           Stroke="Black" 
+                           VerticalAlignment="Top" 
+                           Width="25" 
+                           Grid.Column="6" 
+                           Margin="20,120,0,0"/>
+                <Label x:Name="label" 
+                       Content="15" 
+                       HorizontalAlignment="Center" 
+                       VerticalAlignment="Top" 
+                       FontSize="20" 
+                       Grid.Column="4" 
+                       Margin="0,205,0,0" Foreground="Red" Visibility="Hidden">
+                    <Label.Effect>
+                        <DropShadowEffect ShadowDepth="0" BlurRadius="10"/>
+                    </Label.Effect>
+                </Label>
+                <Label x:Name="HeroHP1" 
+                       Content="30" 
+                       HorizontalAlignment="Left" 
+                       Grid.Column="3" 
+                       VerticalAlignment="Top" 
+                       Margin="19,102,0,0" FontWeight="Bold" FontSize="15" Foreground="White" BorderThickness="0"/>
+                <Label x:Name="HeroHP2" 
+                       Content="30" 
+                       HorizontalAlignment="Left" 
+                       Grid.Column="3" 
+                       VerticalAlignment="Bottom" 
+                       Margin="19,0,0,64" FontWeight="Bold" Foreground="White" FontSize="15"/>
+                <Label x:Name="label1" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" Foreground="White" Grid.Row="1" Grid.Column="1" Margin="60,195,0,0">
+                    <Label.Effect>
+                        <DropShadowEffect ShadowDepth="0" BlurRadius="6"/>
+                    </Label.Effect>
+                </Label>
+                <Label x:Name="label2" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="2" Margin="20,195,0,0" Foreground="White" FontWeight="Bold"/>
+                <Label x:Name="label3" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" Margin="0,195,20,0" Grid.Column="3"/>
+                <Label x:Name="label4" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" FontWeight="Bold" Margin="0,195,60,0" Grid.Column="4"/>
+                <Label x:Name="label5" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" Margin="60,0,0,175" Grid.Column="1"/>
+                <Label x:Name="label6" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" Margin="20,0,0,175" Grid.Column="2"/>
+                <Label x:Name="label7" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" Margin="0,0,20,175" Grid.Column="3"/>
+                <Label x:Name="label8" Content="Label" HorizontalAlignment="Center" VerticalAlignment="Bottom" Foreground="White" FontWeight="Bold" Grid.Column="4" Margin="0,0,60,175"/>
+            </Grid>
+            <Grid x:Name="grArrow">
+                <Line x:Name="line1" 
+                      X1="150" Y1="170" 
+                      X2="360" Y2="10" 
+                      Stroke="Blue" 
+                      StrokeThickness="5" 
+                      Grid.Column="2" Visibility="Hidden" />
+            </Grid>
+        </Grid>
+        <Grid x:Name="grHeroPowerChoice" 
+              Background="#4C000000" 
+              Grid.ColumnSpan="2" Visibility="Hidden">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button Width="150"
+                    Height="200" 
+                    Click="ButtonBackFromChoice_Click1">
+                <Button.Background>
+                    <ImageBrush ImageSource="NewFolder1/603.png"/>
+                </Button.Background>
+            </Button>
+
+            <Button Grid.Column="1"
+                    Width="150"
+                    Height="200"
+                    Click="ButtonBackFromChoice_Click2">
+                <Button.Background>
+                    <ImageBrush ImageSource="NewFolder1/40431.png"/>
+                </Button.Background>
+            </Button>
+
+            <Button Grid.Column="2"
+                    Width="150"
+                    Height="200" Click="ButtonBackFromChoice_Click3">
+                <Button.Background>
+                    <ImageBrush ImageSource="NewFolder1/153.png"/>
+                </Button.Background>
+            </Button>
+
+            <!--<Button Grid.Column="3"
+                    Width="150"
+                    Height="200"
+                    Click="ButtonBackFromChoice_Click"/>-->
+
+        </Grid>
+        <Grid x:Name="grTurnAnimation" Visibility="Hidden">
+            <Label x:Name="BackGroundImage" 
+                   Content=" " 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="72"
+                   FontFamily="Gungsuh" 
+                   FontWeight="Bold" 
+                   Foreground="#FF220CFF" Width="500" Height="250">
+                <Label.Background>
+                    <ImageBrush ImageSource="NewFolder1/Your-Turn-Hearthstone.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="Turn" 
+                   Content="p1" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="24"
+                   FontFamily="Gungsuh" 
+                   FontWeight="Bold" 
+                   Foreground="#FFDECA46" Margin="170,0,0,15" BorderThickness="0">
+                <Label.Effect>
+                    <DropShadowEffect ShadowDepth="0"/>
+                </Label.Effect>
+            </Label>
+
+        </Grid>
+        <Grid x:Name="grWinner" Visibility="Hidden">
+            <Label x:Name="BackGroundImage2" 
+                   Content=" " 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="72"
+                   FontFamily="Gungsuh" 
+                   FontWeight="Bold" 
+                   Foreground="#FF220CFF" Width="500" Height="250">
+                <Label.Background>
+                    <ImageBrush ImageSource="NewFolder1/Your-Turn-Hearthstone1.png"/>
+                </Label.Background>
+            </Label>
+            <Label x:Name="Congratulations" 
+                   Content="player 1 won" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="24"
+                   FontFamily="Gungsuh" 
+                   FontWeight="Bold" 
+                   Foreground="#FFDECA46" Margin="0,0,0,15" BorderThickness="0">
+                <Label.Effect>
+                    <DropShadowEffect ShadowDepth="0"/>
+                </Label.Effect>
+            </Label>
+            <Button x:Name="ExitButton2"
+                        Content="Exit"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="75"
+                        Margin="0,0,0,150" 
+                        Click="ExitButton_Click"/>
+
+        </Grid>
+        <Grid x:Name="grMainMenu" Grid.ColumnSpan="2">
+            <Grid.Background>
+                <ImageBrush ImageSource="NewFolder1/Hearthstone Screenshot 12-20-17 07.37.03.png"/>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="StartButton"
+                        Content="Start"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Top"
+                        Width="150"
+                        Margin="0,144,0,0" 
+                        Grid.Column="1" 
+                        Height="40" 
+                        FontSize="22"
+                        Click="ButtonStart_Click"/>
+            <Button x:Name="MainExitButton"
+                        Content="Exit"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Bottom"
+                        Width="150"
+                        Margin="0,0,0,228" 
+                        Grid.Column="1" 
+                        Height="40" 
+                        FontSize="22"
+                        Click="MainExitButton_Click" 
+                        VerticalContentAlignment="Center"/>
+            <TextBox x:Name="ipenter"
+                     Grid.Column="0"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Bottom"
+                     Margin="10,50,0,150"
+                     Height="25"
+                     Width="120"
+                     Text="192.168.56.1"
+                     />
+            <TextBox x:Name="nameenter"
+                     Grid.Column="0"
+                     HorizontalAlignment="Left"
+                     VerticalAlignment="Bottom"
+                     Margin="10,50,0,190"
+                     Height="25"
+                     Width="120"
+                     Text="hello"
+                     />
+            <Button x:Name="nameipsend"
+                        Content="Name/IP send"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Bottom"
+                        Width="120"
+                        Margin="10,0,0,110" 
+                        Grid.Column="0" 
+                        Height="30" 
+                        FontSize="15"
+                        Click="NameIpSendButton_Click" 
+                        VerticalContentAlignment="Center"/>
+        </Grid>
+
+    </Grid>
+</Window>

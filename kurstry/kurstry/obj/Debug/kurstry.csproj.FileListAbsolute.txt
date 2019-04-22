@@ -1,0 +1,93 @@
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\bin\Debug\kurstry.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\bin\Debug\kurstry.exe
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\bin\Debug\kurstry.pdb
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry.exe
+c:\users\admin\documents\visual studio 2015\Projects\kurstry\kurstry\obj\Debug\kurstry.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 сем курсач (игра)\kurstry\kurstry\bin\Debug\kurstry.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 сем курсач (игра)\kurstry\kurstry\obj\Debug\kurstry.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 сем курсач (игра)\kurstry\kurstry\obj\Debug\kurstry.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\bin\Debug\kurstry.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\bin\Debug\kurstry.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\bin\Debug\kurstry.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\3 Kursach 2 (Hearthstone)\kurstry\kurstry\obj\Debug\kurstry.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\bin\Debug\kurstry.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.lref
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\bin\Debug\kurstry.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\bin\Debug\kurstry.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry.g.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4 Курсач 3 (Хартстоун по сети)\kurstry\kurstry\obj\Debug\kurstry.csproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe.config
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.exe
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.pdb
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\MainWindow.g.cs
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\App.g.cs
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.cache
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.lref
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.pdb
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\MainWindow.baml
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.g.resources
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.Properties.Resources.resources
+C:\Users\Влад\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.csproj.GenerateResource.Cache
+F:\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe.config
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.exe
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.pdb
+F:\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe
+F:\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.pdb
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.csprojResolveAssemblyReference.cache
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\MainWindow.g.cs
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\App.g.cs
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.cache
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.lref
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\MainWindow.baml
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.g.resources
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.Properties.Resources.resources
+F:\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.cache
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry_MarkupCompile.lref
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.exe
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.pdb
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe.config
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.pdb
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.g.resources
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.csproj.GenerateResource.Cache
+D:\Лабы\Конец сема\Курсачи\Курсач 3\курсач\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe.config
+D:\Лабы\Конец сема\Курсачи\Курсач 3\курсач\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.exe
+D:\Лабы\Конец сема\Курсачи\Курсач 3\курсач\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.pdb
+D:\Лабы\Конец сема\Курсачи\Winter\Курсач 4\курсач\Курсач 4 сем\kurstry\kurstry\bin\Debug\kurstry.exe.config
+D:\Лабы\Конец сема\Курсачи\Winter\Курсач 4\курсач\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.exe
+D:\Лабы\Конец сема\Курсачи\Winter\Курсач 4\курсач\Курсач 4 сем\kurstry\kurstry\obj\Debug\kurstry.pdb
